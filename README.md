@@ -20,16 +20,17 @@ This repository uses **MARSPlus**, an extended version of the MARS MIPS simulato
 ## 🖼️ Screenshot
 
 Please have the following settings selected
-![MARSPlus Screenshot](path/to/your/image.png)
+![MARSPlus Screenshot](image.png)
 
 ---
 
 ## ▶️ Build & Run
 
-1. Open your `.asm` file in **MARSPlus**.
+1. Open the `main.asm` file in **MARSPlus**.
 2. Assemble the program by clicking **Assemble (F3)**.
 3. Run the program by clicking **Go (F5)**.
-4. Check the console or memory views for program output.
+4. Maximize the output screen by pressing the ^ arrow
+5. Enjoy!
 
 ---
 
