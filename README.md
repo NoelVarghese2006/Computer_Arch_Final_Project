@@ -20,6 +20,7 @@ This repository uses **MARSPlus**, an extended version of the MARS MIPS simulato
 ## 🖼️ Screenshot
 
 Please have the following settings selected
+
 ![MARSPlus Screenshot](image.png)
 
 ---
